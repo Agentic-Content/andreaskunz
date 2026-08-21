@@ -21,6 +21,19 @@ Ich bringe über ein Jahrzehnt Erfahrung in komplexem Projekt- und Stakeholder-M
 
 **Tools:** `Monday.com` `Adobe Creative Suite` `Git` `DaVinci Resolve`
 
+### Ausgewählte Projekte
+
+**[Data Quality Watcher](https://github.com/Agentic-Content/data-quality-watcher)**
+Python/Pandas-Tool, das CSV-Geschäftsdaten automatisch auf Qualitätsprobleme prüft (fehlende Werte,
+Duplikate, falsche Datentypen, unplausible Werte, Ausreißer) und einen gewichteten Score von 0–100
+plus HTML-Report erzeugt. Mit pytest-Tests und Beispieldaten.
+`Python` `Pandas` `pytest` `Datenqualität`
+
+**[SQL Dojo](https://github.com/Agentic-Content/sql-dojo)** · [Live-Demo](https://agentic-content.github.io/sql-dojo/)
+Interaktives, browserbasiertes SQL-Lerntool mit echter Auswertung gegen eine Datenbank statt fester
+Musterlösungen. 14 Themen, Freeplay-Modus, gestuftes Tipp-System und persönliches Dashboard.
+`JavaScript` `SQL` `GitHub Pages`
+
 ### Background
 
 10+ Jahre Projekt- und Prozessmanagement in der Content-Produktion, davon 5 Jahre als Creative Art Director bei OTTO (Steuerung von 20+ internationalen Produktionen p. a., 8 Fototeams täglich, 30.000+ Artikel p. a.) sowie freiberuflich als Creative Director für Kunden wie Adidas, Lascana und Guido Maria Kretschmer. Kernkompetenzen: Projektmanagement, interkulturelle Kommunikation, Teamführung, Lösungsfindung.
@@ -28,5 +41,5 @@ Ich bringe über ein Jahrzehnt Erfahrung in komplexem Projekt- und Stakeholder-M
 ### Kontakt
 
 - E-Mail: andreaseduardo.kunz@gmail.com
-- LinkedIn: _[Link ergänzen]_
+- LinkedIn: [linkedin.com/in/andreas-eduardo-kunz-580a79b8](https://www.linkedin.com/in/andreas-eduardo-kunz-580a79b8)
 - Standort: Hamburg, Deutschland
