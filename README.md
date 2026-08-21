@@ -41,5 +41,5 @@ Musterlösungen. 14 Themen, Freeplay-Modus, gestuftes Tipp-System und persönlic
 ### Kontakt
 
 - E-Mail: andreaseduardo.kunz@gmail.com
-- LinkedIn: _[Link ergänzen]_
+- LinkedIn: [linkedin.com/in/andreas-eduardo-kunz-580a79b8](https://www.linkedin.com/in/andreas-eduardo-kunz-580a79b8)
 - Standort: Hamburg, Deutschland
